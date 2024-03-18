@@ -531,4 +531,19 @@ const styles = StyleSheet.create({
   bannerBox: {
     marginBottom: hp(-1),
   },
+  bannerBoxe: {
+    marginBottom: hp(-1),
+  },
+  bannerBoxe: {
+    marginBottom: hp(-1),
+  },
+  bannerBoxee: {
+    marginBottom: hp(-1),
+  },
+  bannerBoxeew: {
+    marginBottom: hp(-1),
+  },
+  bannerBoxdd: {
+    marginBottom: hp(-1),
+  },
 });
